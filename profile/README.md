@@ -1,4 +1,4 @@
-# VSCAT
+# VSCAT - Visual Studio Code Autonomous Testing
 
 <!-- ## Hi there 👋 -->
 
