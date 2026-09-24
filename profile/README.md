@@ -1,4 +1,6 @@
-# VSCAT - Visual Studio Code Autonomous Testing
+# CAT - Code Autonomous Testing
+
+University of Tennessee, Knoxville (UTK) Research Project
 
 <!-- ## Hi there 👋 -->
 
